@@ -1,6 +1,6 @@
 # sw_contest
 
-## Hallym SW Week idea contest 심신안정팀
+## Hallym SW Week 아이디어 공모전 심신안정팀
 
 
 ● **팀명** : 심신안정
