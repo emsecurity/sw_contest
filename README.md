@@ -1,5 +1,6 @@
 # sw_contest
-#Hallym SW Week idea contest 심신안정팀
+
+## Hallym SW Week idea contest 심신안정팀
 
 
 ● **팀명** : 심신안정
@@ -9,7 +10,7 @@
    심보석 : 아이디어 제시, 기능 구현 정보 및 아이디어 발표
  
 
-#요약
+# 요약
 
 ● **프로젝트명** : 너의 목소리가 보여(Show Me Your Voice)
 
